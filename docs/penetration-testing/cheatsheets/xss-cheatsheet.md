@@ -1,6 +1,6 @@
----
+-------
 description: XSS CheatSheet - In this CheatSheet, you will find a series of practical example commands for running XSS and getting the most of this.
----
+-------
 
 # XSS CheatSheet
 
